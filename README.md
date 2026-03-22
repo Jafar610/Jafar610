@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**
-HTML | CSS | JavaScript | React
+HTML | CSS | JavaScript |Bootstrap | React
 
 **Backend:**
 Node.js | Express.js
