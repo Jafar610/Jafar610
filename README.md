@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Jafar+Mohamed;Frontend+Developer;Backend+Developer;MERN+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=JAFAR+MOHAMED;FRONTEND+DEVELOPER;BACKEND+DEVELOPER;MERN+STACK+DEVELOPER" />
 
 </div>
----
 
 ## 👨‍💻 About Me
 
