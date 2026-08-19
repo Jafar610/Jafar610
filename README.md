@@ -1,10 +1,6 @@
 # <div align="center">
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jafar610/Jafar610/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Jafar610/Jafar610/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
+ <div align="center"> <h1 style="font-family:'SDGlitchDemo', sans-serif; font-weight:900; font-size:52px; letter-spacing:2px; text-shadow: 2px 0 #00f7ff, -2px 0 #ff00ff, 0 2px #00ff85;"> Jafar Mohamed<br/> Frontend Developer<br/> Backend Developer<br/> MERN Stack Developer </h1> </div>
 
 ---
 
@@ -72,7 +68,10 @@ Hi, I'm **Jafar Mohamed** 👋
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jafar610/Jafar610/output/github-contribution-grid-snake.svg" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jafar610/Jafar610/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Jafar610/Jafar610/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
